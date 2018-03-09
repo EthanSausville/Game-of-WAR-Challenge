@@ -1,0 +1,9 @@
+C:\Users\Ethan\source\repos\Card Game WAR\Card Game WAR\bin\Card Game WAR.dll.config
+C:\Users\Ethan\source\repos\Card Game WAR\Card Game WAR\bin\Card Game WAR.dll
+C:\Users\Ethan\source\repos\Card Game WAR\Card Game WAR\bin\Card Game WAR.pdb
+C:\Users\Ethan\source\repos\Card Game WAR\Card Game WAR\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ethan\source\repos\Card Game WAR\Card Game WAR\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ethan\source\repos\Card Game WAR\Card Game WAR\obj\Debug\Card Game WAR.csprojResolveAssemblyReference.cache
+C:\Users\Ethan\source\repos\Card Game WAR\Card Game WAR\obj\Debug\Card Game WAR.csproj.CoreCompileInputs.cache
+C:\Users\Ethan\source\repos\Card Game WAR\Card Game WAR\obj\Debug\Card Game WAR.dll
+C:\Users\Ethan\source\repos\Card Game WAR\Card Game WAR\obj\Debug\Card Game WAR.pdb
